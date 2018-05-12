@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1120
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Erich_Raspe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42878#De-verrezen-Gulliver--behelzende-de-zonderlinge-reizen-en-avonturen-van-den-baron-van-Munchha_
 gutenberg_issued: '2013-06-04'
 gutenberg_type: Text
 identifiers:
