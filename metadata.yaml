@@ -1,0 +1,37 @@
+_repo: De-verrezen-Gulliver--behelzende-de-zonderlinge-reizen-en-avonturen-van-den-baron-van-Munchha__42878
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42878-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Raspe, Rudolf Erich
+    aliases:
+    - Raspe, Rudolph Erich
+    - Raspe, R. E. (Rudolf Erich)
+    - Raspe, Rudolph Eric
+    birthdate: 1737
+    deathdate: 1794
+    gutenberg_agent_id: '1120'
+    url: http://www.gutenberg.org/2009/agents/1120
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Erich_Raspe
+description: ''
+gutenberg_issued: '2013-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42878'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Tall tales'
+- !lcsh 'Humorous stories'
+- !lcc 'PN'
+title: "De verrezen Gulliver;\r\nbehelzende de zonderlinge reizen en avonturen, van\
+  \ den baron van Munchhausen, In Rusland, Ysland, Turkije, Egipte, Gibraltar, in\
+  \ de Kaspische, Middellandsche en Atlantische Zeëen, en door het middenpunt van\
+  \ den berg Etna naa de Zuid-zee"
+url: http://www.gutenberg.org/ebooks/42878
